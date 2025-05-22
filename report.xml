@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   URL=http://www.google.com
+   <url>      <param>GALX=SJLCkfgaqoM</param>
+      <param>continue=https://accounts.google.com/o/oauth2/auth?zt=ChRsWFBwd2JmV1hIcDhtUFdldzBENhIfVWsxSTdNLW9MdThibW1TMFQzVUZFc1BBaURuWmlRSQ%E2%88%99APsBz4gAAAAAUy4_qD7Hbfz38w8kxnaNouLcRiD3YTjX</param>
+      <param>service=lso</param>
+      <param>dsh=-7381887106725792428</param>
+      <param>_utf8=â</param>
+      <param>bgresponse=js_disabled</param>
+      <param>pstMsg=1</param>
+      <param>dnConn=</param>
+      <param>checkConnection=</param>
+      <param>checkedDomains=youtube</param>
+      <param>Email=chainikaaa</param>
+      <param>Passwd=chai0702@</param>
+      <param>signIn=Sign+in</param>
+      <param>PersistentCookie=yes</param>
+   </url>
+</harvester>
